@@ -1,3 +1,14 @@
+# Mint and Transfer Outputs
+
+# Mint Output
+<img width="989" alt="Screenshot 2023-12-02 at 6 11 07 PM" src="https://github.com/JonWong203/aleo-deploy-workshop/assets/82334955/cd8bbff5-2c94-44fd-be03-5e42cac66fda">
+
+
+# Transfer Output
+<img width="980" alt="Screenshot 2023-12-02 at 6 20 33 PM" src="https://github.com/JonWong203/aleo-deploy-workshop/assets/82334955/fcfaf39a-1c23-4811-abdc-f1af73173881">
+
+
+
 # Aleo Deployment Demo
 
 In this repository we will go through the steps to deploy your own Leo program on the Aleo Network.
